@@ -13,7 +13,7 @@
 - 📊 Aspiring Data Analyst
 - 🌱 Learning Data Science
 - 💡 Passionate about Data Visualization
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: karthikeyank5859-email@example.com**
 
 ---
 
